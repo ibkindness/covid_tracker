@@ -12,6 +12,8 @@
 
 ![](ss/Screenshot%202021-07-27%20092859.png)
 
+![](ss/Screenshot%202021-07-27%20092920.png)
+
 ## Project setup
 ```
 npm install
