@@ -1,4 +1,16 @@
-# vue-covid-tracker
+# Welcome to Vue Covid-19 tracker app
+
+## Screenshots 
+
+![](ss/Screenshot%202021-07-27%20092558.png)
+
+![](ss/Screenshot%202021-07-27%20092702.png)
+
+![](ss/Screenshot%202021-07-27%20092807.png)
+
+![](ss/Screenshot%202021-07-27%20092819.png)
+
+![](ss/Screenshot%202021-07-27%20092859.png)
 
 ## Project setup
 ```
