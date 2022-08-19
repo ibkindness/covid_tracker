@@ -4,4 +4,4 @@ module.exports = {
   ]
 }
 
-  publicPath: process.env.NODE_ENV === "production" ? "/covid_tracker/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/https://irfankurtagic.github.io/covid_tracker/" : "/",
